@@ -5,7 +5,7 @@ You can define your own messages by adding them to errorMessages Map.
 
 ## Live demo
 
-https://stackblitz.com/github/Savage3D/Angular-ValidationMessages
+https://stackblitz.com/edit/angular-validation-messages
 
 ## Usage
 
